@@ -1,7 +1,7 @@
 ### 🛠 Sobre
 <p>
   <em>
-   Sou um Engenheiro de Software atuando em no desenvolvimento e implementação de aplicações para web há 10 anos.
+   Engenheiro de Software atuando no desenvolvimento e implementação de aplicações para web.
   </em>  
 </p>
 
