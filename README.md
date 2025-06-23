@@ -1,7 +1,7 @@
 ### 🛠 Sobre
 <p>
   <em>
-   Engenheiro de Software atuando no desenvolvimento e implementação de aplicações para web.
+   Engenheiro de Software, com experiência no desenvolvimento de sistemas multiplataformas, arquitetura de software e automação de processos.
   </em>  
 </p>
 
